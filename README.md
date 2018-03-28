@@ -229,3 +229,5 @@ edu.ru -> edu.ru.txt
 Найти регистратора с минимальной стоимость домена в зонах com и org**
 
 
+Полный список доменов верхнего уровня -> файл top_level_domains.txt
+стоимость регистрации своего домена ->  https://www.nic.ru/dns/reglaments/pdf/sup2_price_NIC_D.pdf
